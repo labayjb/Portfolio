@@ -1,0 +1,26 @@
+.profile{
+    background: black;
+    width: 80%;
+    color: rgba(255, 255, 255, 0.6);
+}
+.profile img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px white solid;
+}
+ .intro h5{
+    font-weight: 200px;
+    padding: 5px;
+    display: block;
+    width: 600px;
+    margin: 20px auto;
+}
+/*.triangle{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 545px solid transparent;
+    border-right: 545px solid transparent;
+    border-top: 300px solid black;
+}*/
