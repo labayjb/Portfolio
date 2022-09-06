@@ -1,0 +1,14 @@
+footer{
+    width: 100%;
+    background: var(--cont);
+    padding: 3rem;
+    text-align: center;
+    font-size: 0.9rem;
+    margin: 0 auto;
+    margin-top: 7rem;
+}
+
+footer h1{
+    margin-bottom: 4rem;
+    font-weight: 500;
+}

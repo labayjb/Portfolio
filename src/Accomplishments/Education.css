@@ -1,0 +1,39 @@
+.education__container{
+
+}
+
+.education__details{
+    display: flex;
+    padding: 1.2rem 0.5rem;
+    width: 35rem;
+    margin: 0 auto;
+}
+
+.education__details img{
+    width: 5rem;
+    margin: 0 auto;
+    margin-bottom: 0.3rem;
+}
+
+.education__details-content{
+    background: var(--cont);
+    border-radius: 1rem;
+    width: 30rem;
+    padding: 0.8rem 2rem;
+}
+
+
+@media screen and (max-width: 1024px) {
+    
+    
+}
+  
+@media screen and (max-width: 600px) {
+    .education__details{
+        display: block;
+        width: 21rem;
+    }
+    .education__details-content{
+        width: 20rem;
+    }
+}
